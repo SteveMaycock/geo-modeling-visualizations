@@ -1,0 +1,25 @@
+scenario,category,value,type
+Current Trends,Land Cover|Pasture,-40,negative
+Current Trends,Land Cover|Forest and Other Natural Land,-30,negative
+Current Trends,Land Cover|Other,13.3,positive
+Current Trends,Land Cover|Cropland,50,positive
+Behaviour-focused,Land Cover|Pasture,-260,negative
+Behaviour-focused,Land Cover|Other,5.8,positive
+Behaviour-focused,Land Cover|Cropland,70,positive
+Behaviour-focused,Land Cover|Forest and Other Natural Land,180,positive
+Technology-focused,Land Cover|Pasture,-130,negative
+Technology-focused,Land Cover|Other,2.4,positive
+Technology-focused,Land Cover|Cropland,60,positive
+Technology-focused,Land Cover|Forest and Other Natural Land,70,positive
+Current Trends,Land Cover|Forest and Other Natural Land,-60,negative
+Current Trends,Land Cover|Pasture,-50,negative
+Current Trends,Land Cover|Other,26.8,positive
+Current Trends,Land Cover|Cropland,80,positive
+Behaviour-focused,Land Cover|Pasture,-520,negative
+Behaviour-focused,Land Cover|Cropland,20,positive
+Behaviour-focused,Land Cover|Other,24.3,positive
+Behaviour-focused,Land Cover|Forest and Other Natural Land,480,positive
+Technology-focused,Land Cover|Pasture,-330,negative
+Technology-focused,Land Cover|Other,22.7,positive
+Technology-focused,Land Cover|Cropland,90,positive
+Technology-focused,Land Cover|Forest and Other Natural Land,220,positive

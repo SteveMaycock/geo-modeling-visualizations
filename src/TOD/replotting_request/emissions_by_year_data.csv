@@ -1,0 +1,8 @@
+model,scenario,region,variable,unit,2020,2050
+AIM/Hub-Global 2.4,Current Trends,World,Buildings,Gt CO2/yr,2.0015175000000007,2.0662568000000006
+AIM/Hub-Global 2.4,Current Trends,World,Energy Supply (neg.),Gt CO2/yr,-0.0,-0.0
+AIM/Hub-Global 2.4,Current Trends,World,Energy Supply (pos.),Gt CO2/yr,19.098860300000005,22.770962000000004
+AIM/Hub-Global 2.4,Current Trends,World,Industry,Gt CO2/yr,9.943793199999998,15.407222200000003
+AIM/Hub-Global 2.4,Current Trends,World,Land Use,Gt CO2/yr,3.866945400000001,2.2631840000000008
+AIM/Hub-Global 2.4,Current Trends,World,Non-CO2,Gt CO2/yr,14.835832900000005,21.539018300000002
+AIM/Hub-Global 2.4,Current Trends,World,Transport,Gt CO2/yr,9.150652200000003,15.765889400000004

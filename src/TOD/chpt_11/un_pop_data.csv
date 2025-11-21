@@ -1,0 +1,8 @@
+model,scenario,region,variable,unit,year,value
+UN,UN Median,World,Population,million,2020,7851.415
+UN,UN Median,World,Population,million,2025,8231.61307
+UN,UN Median,World,Population,million,2030,8569.124911
+UN,UN Median,World,Population,million,2035,8885.210181
+UN,UN Median,World,Population,million,2040,9177.190203
+UN,UN Median,World,Population,million,2045,9439.639668
+UN,UN Median,World,Population,million,2050,9664.378587

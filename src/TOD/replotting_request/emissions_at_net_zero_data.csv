@@ -1,0 +1,15 @@
+model,scenario,region,variable,unit,9999
+IMAGE 3.3,Behaviour-focused,World,Buildings,Gt CO2/yr,0.27391982116699226
+IMAGE 3.3,Behaviour-focused,World,Energy Supply (neg.),Gt CO2/yr,-3.074024990749634
+IMAGE 3.3,Behaviour-focused,World,Energy Supply (pos.),Gt CO2/yr,2.214123179850014
+IMAGE 3.3,Behaviour-focused,World,Industry,Gt CO2/yr,0.7926038107313544
+IMAGE 3.3,Behaviour-focused,World,Land Use,Gt CO2/yr,-3.7665440167930577
+IMAGE 3.3,Behaviour-focused,World,Non-CO2,Gt CO2/yr,5.646987127890503
+IMAGE 3.3,Behaviour-focused,World,Transport,Gt CO2/yr,1.3054247976536182
+IMAGE 3.3,Technology-focused,World,Buildings,Gt CO2/yr,0.023927911758422855
+IMAGE 3.3,Technology-focused,World,Energy Supply (neg.),Gt CO2/yr,-4.397271932329082
+IMAGE 3.3,Technology-focused,World,Energy Supply (pos.),Gt CO2/yr,3.542138501366975
+IMAGE 3.3,Technology-focused,World,Industry,Gt CO2/yr,1.040578781411276
+IMAGE 3.3,Technology-focused,World,Land Use,Gt CO2/yr,-4.0384447622990285
+IMAGE 3.3,Technology-focused,World,Non-CO2,Gt CO2/yr,7.016756663154853
+IMAGE 3.3,Technology-focused,World,Transport,Gt CO2/yr,2.175841093261159

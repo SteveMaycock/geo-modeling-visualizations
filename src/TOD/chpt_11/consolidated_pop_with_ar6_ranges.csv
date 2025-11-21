@@ -1,0 +1,5 @@
+model,scenario,region,variable,unit,year,value,min_value,max_value
+Macro_Economy,Current Trend,World,Population,million,2020,7760.0,7534.90062248236,7795.136232000012
+Macro_Economy,Current Trend,World,Population,million,2030,8420.0,8098.1893,8555.261709000017
+Macro_Economy,Current Trend,World,Population,million,2040,8960.0,8385.991,9238.143921000015
+Macro_Economy,Current Trend,World,Population,million,2050,9350.0,8488.108,9755.900937000024

@@ -1,0 +1,5 @@
+model,scenario,region,variable,unit,year,value
+Macro_Economy,Current Trend,World,GDP|PPP|Per Capita,thousand US$2010/yr,2020,13.144329896907216
+Macro_Economy,Current Trend,World,GDP|PPP|Per Capita,thousand US$2010/yr,2030,17.339667458432302
+Macro_Economy,Current Trend,World,GDP|PPP|Per Capita,thousand US$2010/yr,2040,21.316964285714285
+Macro_Economy,Current Trend,World,GDP|PPP|Per Capita,thousand US$2010/yr,2050,25.56149732620321

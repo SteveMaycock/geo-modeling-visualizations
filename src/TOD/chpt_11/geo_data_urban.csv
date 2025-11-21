@@ -1,0 +1,5 @@
+model,scenario,region,variable,unit,year,value
+Macro_Economy,Current Trend,World,Population|Urban,million,2020,4289.694799196613
+Macro_Economy,Current Trend,World,Population|Urban,million,2030,5019.221918392153
+Macro_Economy,Current Trend,World,Population|Urban,million,2040,5688.147862692077
+Macro_Economy,Current Trend,World,Population|Urban,million,2050,6259.981139235904
