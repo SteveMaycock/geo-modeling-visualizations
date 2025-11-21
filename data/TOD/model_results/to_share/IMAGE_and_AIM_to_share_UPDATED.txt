@@ -1,0 +1,21 @@
+emissions_variables = [
+    'Emissions|CH4', 
+    'Emissions|CH4|AFOLU',
+    'Emissions|CH4|Energy',
+    'Emissions|CO2',
+    'Emissions|CO2|AFOLU',
+    'Emissions|CO2|Energy',
+    'Emissions|Kyoto Gases',
+    'Emissions|N2O',
+    'Emissions|N2O|AFOLU',
+    'Emissions|N2O|Energy',
+Emissions|CO2|Energy and Industrial Processes
+Emissions|CO2|Energy|Demand|Industry
+Emissions|CO2|Energy|Demand|Residential
+Emissions|CO2|Energy|Demand|Transportation
+
+]
+
+copied 2020 ref values (taken from IMAGE after harmonization)
+replaced 2020 life and tech values with REF
+Manually in excel
