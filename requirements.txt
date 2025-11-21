@@ -1,0 +1,9 @@
+matplotlib==3.8.3
+numpy
+openpyxl==3.1.2
+pandas==2.2.3
+pyam==0.2.1-alpha
+seaborn==0.13.2
+aneris-iamc==0.3.1
+
+# Outdated packages, installed without specifying versions to solve conflicts
